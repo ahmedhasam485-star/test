@@ -6,7 +6,7 @@ This is a test repository created for learning and experimenting with Git and Gi
 
 ## Status
 
-🚧 Work in progress
+Work in progress
 
 ## Description
 
